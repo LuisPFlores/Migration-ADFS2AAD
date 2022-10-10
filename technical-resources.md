@@ -19,10 +19,14 @@
 * [App Migration Whitepaper](https://aka.ms/migrateapps/whitepaper)
 * [App Migration Toolkit ](https://aka.ms/MigrateApps)
 
-## Tools
+## ConnectHealth
 * [ADFSConnectHealth](https://aka.ms/adfsconnecthealth)
+* [Azure AD Connect Health agent for AD FS](https://go.microsoft.com/fwlink/?LinkID=518973)
+## Tools
+
 * [Enable Password Hash Sync](https://aka.ms/phsbackup )
 * [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
+
 
 ## ADFS to Azure AD App Migration Tool
 * [aka.ms/migrateapps/ADFStools](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration)
