@@ -21,8 +21,14 @@
 * [ADFSConnectHealth](https://aka.ms/adfsconnecthealth)
 * [Azure AD Connect Health agent for AD FS](https://go.microsoft.com/fwlink/?LinkID=518973)
 
+## Password Hash Synchronization (PHS)
+* [Deployment Guide](https://aka.ms/ADFSToPHSDPDownload)
+* [Tutorial PHS as backup for AD FS ](https://aka.ms/phsbackup )
+
+## Pass-through authentication (PTA)
+* [Deployment Guide](https://aka.ms/ADFSTOPTADPDownload)
+
 ## Tools
-* [Enable Password Hash Sync](https://aka.ms/phsbackup )
 * [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
 * [App Migration Whitepaper](https://aka.ms/migrateapps/whitepaper)
 * [App Migration Toolkit ](https://aka.ms/MigrateApps)
