@@ -22,7 +22,7 @@
 ## Tools
 * [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
 
-## Azure AD App Migration Tool
+## ADFS to Azure AD App Migration Tool
 * [aka.ms/migrateapps/ADFStools](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration)
 * [aka.ms/migrateapps/samples ](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration/samples)
 * [aka.ms/migrateapps/ADFSactivity](https://aka.ms/migrateapps/ADFSactivity)
