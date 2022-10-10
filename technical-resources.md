@@ -20,6 +20,8 @@
 * [App Migration Toolkit ](https://aka.ms/MigrateApps)
 
 ## Tools
+* [ADFSConnectHealth](https://aka.ms/adfsconnecthealth)
+* [Enable Password Hash Sync](https://aka.ms/phsbackup )
 * [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
 
 ## ADFS to Azure AD App Migration Tool
