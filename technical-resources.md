@@ -1,4 +1,4 @@
-## Technical resources
+## Technical guides
 
 * [Add an OpenID Connect app to your tenant from the application gallery - Azure Active Directory – YouTube](https://www.youtube.com/watch?v=4kv-upsZCI0&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=2)
 * [How to troubleshoot SAML SSO with Azure Active Directory – YouTube](https://www.youtube.com/watch?v=poQCJK0WPUk&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=10)
@@ -16,17 +16,16 @@
 * [What is Application Proxy in Azure Active Directory? – YouTube](https://www.youtube.com/watch?v=GeMiyXkcehU&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=107)
 * [How to deploy Application Proxy in Azure Active Directory – YouTube](https://www.youtube.com/watch?v=_2kWq5H4NhY&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=106)
 * [How to roll out Application Proxy in Azure Active Directory – YouTube](https://www.youtube.com/watch?v=0mLFWcG95OA&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=105)
-* [App Migration Whitepaper](https://aka.ms/migrateapps/whitepaper)
-* [App Migration Toolkit ](https://aka.ms/MigrateApps)
 
 ## ConnectHealth
 * [ADFSConnectHealth](https://aka.ms/adfsconnecthealth)
 * [Azure AD Connect Health agent for AD FS](https://go.microsoft.com/fwlink/?LinkID=518973)
-## Tools
 
+## Tools
 * [Enable Password Hash Sync](https://aka.ms/phsbackup )
 * [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
-
+* [App Migration Whitepaper](https://aka.ms/migrateapps/whitepaper)
+* [App Migration Toolkit ](https://aka.ms/MigrateApps)
 
 ## ADFS to Azure AD App Migration Tool
 * [aka.ms/migrateapps/ADFStools](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration)
