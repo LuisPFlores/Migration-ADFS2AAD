@@ -17,6 +17,9 @@
 * [How to deploy Application Proxy in Azure Active Directory – YouTube](https://www.youtube.com/watch?v=_2kWq5H4NhY&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=106)
 * [How to roll out Application Proxy in Azure Active Directory – YouTube](https://www.youtube.com/watch?v=0mLFWcG95OA&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=105)
 
+## Hybrid Identity
++ [Hybrid identity documentation](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/)
+
 ## ConnectHealth
 * [ADFSConnectHealth](https://aka.ms/adfsconnecthealth)
 * [Azure AD Connect Health agent for AD FS](https://go.microsoft.com/fwlink/?LinkID=518973)
