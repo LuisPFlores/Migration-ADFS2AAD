@@ -21,7 +21,7 @@
 + [Hybrid identity documentation](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/)
 
 ## ConnectHealth
-* [Install ADFSConnectHealth](https://aka.ms/adfsconnecthealth)
+* [Install Azure AD Connect Health for ADFS](https://aka.ms/adfsconnecthealth)
 * [Azure AD Connect Health agent for AD FS](https://go.microsoft.com/fwlink/?LinkID=518973)
 * [Azure AD Connect Health Operations](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
 
