@@ -24,6 +24,7 @@
 * [Install Azure AD Connect Health for ADFS](https://aka.ms/adfsconnecthealth)
 * [Azure AD Connect Health agent for AD FS](https://go.microsoft.com/fwlink/?LinkID=518973)
 * [Azure AD Connect Health Operations](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
+* [Version & Licenses](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-health-faq#what-version-of-identity-roles-are-supported-by-azure-ad-connect-health-)
 
 ## Password Hash Synchronization (PHS)
 * [Deployment Guide](https://aka.ms/ADFSToPHSDPDownload)
