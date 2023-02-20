@@ -44,3 +44,7 @@
 * [aka.ms/migrateapps/ADFSactivity](https://aka.ms/migrateapps/ADFSactivity)
 * [App Migration Whitepaper](https://aka.ms/migrateapps/whitepaper)
 * [App Migration Toolkit ](https://aka.ms/MigrateApps)
+
+## ADFS Decommission Guide
+* [AD FS Decommission](http://aka.ms/adfsdecom)
+
